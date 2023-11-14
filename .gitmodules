@@ -1,0 +1,6 @@
+[submodule "imu_tools"]
+	path = imu_tools
+	url = git@github.com:zaqwsx121/imu_tools.git
+[submodule "robot_localization"]
+	path = robot_localization
+	url = git@github.com:zaqwsx121/robot_localization.git
